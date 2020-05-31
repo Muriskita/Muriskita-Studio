@@ -8,7 +8,7 @@ Hundreds of levels to explore
 Lots of weapons to try
 More characters to choose from
 
-###Privacy Policy
+### Privacy Policy
 
 Muriskita Studio built the The Art of Aiming app as a Free app. This SERVICE is provided by Muriskita Studio at no cost and is intended for use as is.
 
@@ -26,9 +26,9 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services - <a href="http://www.google.com">Google</a>
-AdMob
-Unity
+<a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a><br>
+<a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a><br>
+<a href="https://unity3d.com/legal/privacy-policy" target="_blank">Unity</a><br>
 Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
