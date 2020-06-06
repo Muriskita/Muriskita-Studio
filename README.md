@@ -2,6 +2,8 @@
 
 Aim using your weapon , kill monsters and get rewards
 
+<a href="https://play.google.com/store/apps/details?id=com.MuriskitaStudio.TheArtofAiming" target="_blank">GET IT HERE !!!</a><br>
+
 ### Lots of levels
 
 Hundreds of levels to explore
